@@ -1,0 +1,14 @@
+Welcome to the PDF Merger and Sorter!
+
+This application allows you to merge and sort PDF files based on various criteria such as filenames or specific keywords.
+
+Features:
+- Merge PDFs without sorting
+- Sort and group PDFs by common filename parts or specific keywords
+- Easy-to-use interface
+
+Requirements:
+- This application requires Python and the PyPDF2 library to function correctly.
+- Ensure sufficient disk space is available for large PDF files.
+
+Click "Next" to proceed with the installation.

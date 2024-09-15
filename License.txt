@@ -1,0 +1,19 @@
+PDF Merger and Sorter Application License Agreement
+---------------------------------------------------
+
+Copyright (c) 2024 [Your Name or Company]. All rights reserved.
+
+By installing and using this software, you agree to the following terms:
+
+1. This software is provided "as is", without warranty of any kind, express or implied.
+2. You may use this software for personal and commercial purposes.
+3. You may not reverse engineer, decompile, or redistribute this software without permission.
+4. The authors are not responsible for any damages or data loss that may result from using this software.
+5. This software uses third-party libraries (PyPDF2) under their respective licenses.
+
+By proceeding with the installation, you accept these terms and conditions.
+
+
+
+Regards
+Sujit Sarkar

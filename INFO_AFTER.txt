@@ -1,0 +1,10 @@
+Installation Complete!
+
+Thank you for installing PDF Merger and Sorter.
+
+To start using the application:
+1. You can find the program in the Start Menu under "PDF Merger".
+2. Simply launch the application, select your PDF files, and choose your sorting and merging criteria.
+3. It directly opens outlook when you select to open outlook and attach file.
+
+Enjoy using PDF Merger and Sorter!

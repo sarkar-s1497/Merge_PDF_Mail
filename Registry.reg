@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\PDFMerger]
+"DisplayName"="PDF Merger"
+"DisplayVersion"="1.0"
+"Publisher"="Sujit Sarkar"
+"UninstallString"="\"C:\\Program Files\\PDF Merger\\unins000.exe\""
+
+[HKEY_CLASSES_ROOT\.pdf]
+@="PDFMerger.Document"
+
+[HKEY_CLASSES_ROOT\PDFMerger.Document]
+@="PDF Merger Document"
+
+[HKEY_CLASSES_ROOT\PDFMerger.Document\DefaultIcon]
+@="C:\\Program Files\\PDF Merger\\PDFMerger.exe,0"
+
+[HKEY_CLASSES_ROOT\PDFMerger.Document\shell\open\command]
+@="\"C:\\Program Files\\PDF Merger\\PDFMerger.exe\" \"%1\""
